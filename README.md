@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sofee Hayibueraheng
 
-I'm Student
+I'm Studying at Prince of Songkla University
 -----------
 
 I've been learning Cisco Packet Tracer for 1 year
